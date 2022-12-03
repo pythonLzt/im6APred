@@ -1,0 +1,4 @@
+condition：You need to install Firefox(geckodriver.exe) and to configure environment variables.
+
+requisition:python==3.7
+            selenium==4.1.2
