@@ -17,7 +17,7 @@ Notes:
 
 1. The script test.py is used to predict m6A sites from a given file with fasta format containing RNA sequences. 
 
-2. model: Enter the name of the specie and tissue, for example human liver、mouse heart、rat kidney
+2. model: enter the name of the specie and tissue, for example human liver、mouse heart、rat kidney
 
 3. test_fasta: an input file containing query RNA sequences with fasta format.
 
